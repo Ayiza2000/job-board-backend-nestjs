@@ -32,5 +32,4 @@ Backend service implementing a Job Board with JWT authentication, job CRUD, and 
 ### 1. Install dependencies
 
 ```bash
-cd backend
 npm install
